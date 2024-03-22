@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Yes\Yes\bin\Debug\net6.0\Yes.exe
+C:\Users\HP\source\repos\Yes\Yes\bin\Debug\net6.0\Yes.deps.json
+C:\Users\HP\source\repos\Yes\Yes\bin\Debug\net6.0\Yes.runtimeconfig.json
+C:\Users\HP\source\repos\Yes\Yes\bin\Debug\net6.0\Yes.dll
+C:\Users\HP\source\repos\Yes\Yes\bin\Debug\net6.0\Yes.pdb
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\Yes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\Yes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\Yes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\Yes.AssemblyInfo.cs
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\Yes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\Yes.dll
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\refint\Yes.dll
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\Yes.pdb
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\Yes.genruntimeconfig.cache
+C:\Users\HP\source\repos\Yes\Yes\obj\Debug\net6.0\ref\Yes.dll
